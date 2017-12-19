@@ -12,18 +12,18 @@
         android:layout_height="130dp"
         android:orientation="horizontal">
     <FrameLayout
-        android:layout_width="126dp"
-        android:layout_height="126dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/fragment1">
     </FrameLayout>
     <FrameLayout
-        android:layout_width="126dp"
-        android:layout_height="126dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/fragment2">
     </FrameLayout>
     <FrameLayout
-        android:layout_width="126dp"
-        android:layout_height="126dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
         android:id="@+id/fragment3">
     </FrameLayout>
 </LinearLayout>
@@ -33,18 +33,18 @@
         android:orientation="horizontal"
         >
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment4">
         </FrameLayout>
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment5">
         </FrameLayout>
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment6">
         </FrameLayout>
     </LinearLayout>
@@ -53,18 +53,18 @@
         android:layout_height="130dp"
         android:orientation="horizontal">
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment7">
         </FrameLayout>
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment8">
         </FrameLayout>
         <FrameLayout
-            android:layout_width="126dp"
-            android:layout_height="126dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:id="@+id/fragment9">
         </FrameLayout>
     </LinearLayout>
